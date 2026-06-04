@@ -21,4 +21,4 @@
 
 ## Визуализация
 
-![Boxplot](ab_test_boxplot_with_legend.png)
+![Boxplot](ab_test_result.png)
