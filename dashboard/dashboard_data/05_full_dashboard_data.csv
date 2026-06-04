@@ -1,0 +1,40 @@
+﻿artwork_id,artwork_title,creation_year,medium,estimated_value_eur,is_on_display,artist_name,artist_birth_year,artist_country,museum_name,museum_country,museum_visitors,art_movements
+11,Olympia,1863,Oil on canvas,120000000.0,True,Édouard Manet,1832,France,Musée d'Orsay,France,3600000.0,"Impressionism, Realism"
+5,"Impression, Sunrise",1872,Oil on canvas,75000000.0,True,Claude Monet,1840,France,Musée d'Orsay,France,3600000.0,Impressionism
+9,The Ballet Class,1874,Oil on canvas,45000000.0,True,Edgar Degas,1834,France,Musée du Louvre,France,9700000.0,Impressionism
+7,Bal du moulin de la Galette,1876,Oil on canvas,180000000.0,True,Pierre-Auguste Renoir,1841,France,Musée du Louvre,France,9700000.0,Impressionism
+10,Little Dancer of Fourteen Years,1881,Bronze sculpture,35000000.0,True,Edgar Degas,1834,France,Musée d'Orsay,France,3600000.0,Impressionism
+8,Luncheon of the Boating Party,1881,Oil on canvas,90000000.0,True,Pierre-Auguste Renoir,1841,France,Metropolitan Museum of Art,USA,7000000.0,Impressionism
+39,The Harvest,1882,Oil on canvas,25000000.0,True,Camille Pissarro,1830,France,Rijksmuseum,Netherlands,2700000.0,Impressionism
+12,A Bar at the Folies-Bergère,1882,Oil on canvas,110000000.0,True,Édouard Manet,1832,France,National Gallery,UK,6000000.0,"Impressionism, Realism"
+3,The Potato Eaters,1885,Oil on canvas,40000000.0,False,Vincent van Gogh,1853,Netherlands,Rijksmuseum,Netherlands,2700000.0,"Expressionism, Post-Impressionism"
+2,Sunflowers,1888,Oil on canvas,85000000.0,True,Vincent van Gogh,1853,Netherlands,Van Gogh Museum,Netherlands,2100000.0,"Expressionism, Post-Impressionism"
+1,The Starry Night,1889,Oil on canvas,100000000.0,True,Vincent van Gogh,1853,Netherlands,Van Gogh Museum,Netherlands,2100000.0,"Expressionism, Post-Impressionism"
+6,Haystacks,1890,Oil on canvas,45000000.0,True,Claude Monet,1840,France,Musée du Louvre,France,9700000.0,Impressionism
+26,The Scream,1893,"Oil, tempera, pastel on cardboard",120000000.0,True,Edvard Munch,1863,Norway,,,,Expressionism
+13,The Card Players,1895,Oil on canvas,260000000.0,True,Paul Cézanne,1839,France,Musée du Louvre,France,9700000.0,Post-Impressionism
+38,Boulevard Montmartre at Night,1897,Oil on canvas,40000000.0,True,Camille Pissarro,1830,France,Musée d'Orsay,France,3600000.0,Impressionism
+19,The Old Guitarist,1903,Oil on canvas,40000000.0,True,Pablo Picasso,1881,Spain,Metropolitan Museum of Art,USA,7000000.0,"Cubism, Surrealism"
+14,Mont Sainte-Victoire,1904,Oil on canvas,50000000.0,True,Paul Cézanne,1839,France,Metropolitan Museum of Art,USA,7000000.0,Post-Impressionism
+16,Woman with a Hat,1905,Oil on canvas,20000000.0,True,Henri Matisse,1869,France,Metropolitan Museum of Art,USA,7000000.0,"Expressionism, Fauvism"
+23,Portrait of Adele Bloch-Bauer I,1907,Oil and gold on canvas,135000000.0,True,Gustav Klimt,1862,Austria,Museum Berggruen,Germany,300000.0,"Art Nouveau, Symbolism"
+17,Les Demoiselles d'Avignon,1907,Oil on canvas,120000000.0,True,Pablo Picasso,1881,Spain,Museum of Modern Art (MoMA),USA,3100000.0,"Cubism, Surrealism"
+35,Houses at L'Estaque,1908,Oil on canvas,45000000.0,True,Georges Braque,1882,France,Musée du Louvre,France,9700000.0,Cubism
+22,The Kiss,1908,Oil and gold leaf on canvas,240000000.0,True,Gustav Klimt,1862,Austria,Stedelijk Museum,Netherlands,700000.0,"Art Nouveau, Symbolism"
+15,The Dance,1910,Oil on canvas,300000000.0,True,Henri Matisse,1869,France,Musée du Louvre,France,9700000.0,"Expressionism, Fauvism"
+34,Violin and Candlestick,1910,Oil on canvas,50000000.0,True,Georges Braque,1882,France,Metropolitan Museum of Art,USA,7000000.0,Cubism
+30,I and the Village,1911,Oil on canvas,55000000.0,True,Marc Chagall,1887,Russia,Museum of Modern Art (MoMA),USA,3100000.0,"Expressionism, Surrealism"
+25,Self-Portrait with Physalis,1912,Oil on canvas,25000000.0,True,Egon Schiele,1890,Austria,Stedelijk Museum,Netherlands,700000.0,Expressionism
+31,The Fiddler,1912,Oil on canvas,30000000.0,True,Marc Chagall,1887,Russia,State Russian Museum,Russia,2200000.0,"Expressionism, Surrealism"
+24,Portrait of Wally,1912,Oil on canvas,35000000.0,True,Egon Schiele,1890,Austria,Museum Berggruen,Germany,300000.0,Expressionism
+4,Water Lilies,1916,Oil on canvas,55000000.0,True,Claude Monet,1840,France,Musée du Louvre,France,9700000.0,Impressionism
+29,Suprematist Composition,1916,Oil on canvas,30000000.0,True,Kazimir Malevich,1879,Russia,State Russian Museum,Russia,2200000.0,"Abstract Expressionism, Minimalism"
+33,Reclining Nude,1917,Oil on canvas,170000000.0,True,Amedeo Modigliani,1884,Italy,National Gallery,UK,6000000.0,Expressionism
+32,Portrait of Jeanne Hébuterne,1918,Oil on canvas,45000000.0,True,Amedeo Modigliani,1884,Italy,Museum of Modern Art (MoMA),USA,3100000.0,Expressionism
+27,Composition VIII,1923,Oil on canvas,40000000.0,True,Wassily Kandinsky,1866,Russia,Museum of Modern Art (MoMA),USA,3100000.0,"Abstract Expressionism, Expressionism"
+28,Yellow-Red-Blue,1925,Oil on canvas,35000000.0,True,Wassily Kandinsky,1866,Russia,State Russian Museum,Russia,2200000.0,"Abstract Expressionism, Expressionism"
+36,"Composition with Red, Blue and Yellow",1930,Oil on canvas,50000000.0,True,Piet Mondrian,1872,Netherlands,Museum of Modern Art (MoMA),USA,3100000.0,"Abstract Expressionism, Minimalism"
+20,The Persistence of Memory,1931,Oil on canvas,150000000.0,True,Salvador Dalí,1904,Spain,Museum of Modern Art (MoMA),USA,3100000.0,Surrealism
+18,Guernica,1937,Oil on canvas,200000000.0,True,Pablo Picasso,1881,Spain,Museo Nacional Centro de Arte Reina Sofía,Spain,3800000.0,"Cubism, Surrealism"
+37,Broadway Boogie Woogie,1943,Oil on canvas,40000000.0,True,Piet Mondrian,1872,Netherlands,Van Gogh Museum,Netherlands,2100000.0,"Abstract Expressionism, Minimalism"
+21,The Elephants,1948,Oil on canvas,70000000.0,True,Salvador Dalí,1904,Spain,Museo del Prado,Spain,3400000.0,Surrealism
