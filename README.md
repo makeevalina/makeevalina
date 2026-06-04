@@ -100,6 +100,5 @@
 
 ## 📄 Контакты
 
-- **GitHub:** [makeevalina](ссылка)
-- **Telegram:** [@Al_Papaver](https://t.me/Al_Papaver)
-- **Email:** [makeeva_lina@vk.com](mailto:alina.makeeva_lina@vk.com)
+- **Telegram:** @Al_Papaver
+- **Email:** makeeva_lina@vk.com
