@@ -33,7 +33,7 @@ print("Средняя стоимость постимпрессионистов:
 
 # Статистический тест (Манна-Уитни — аналог t-test для любых распределений)
 stat, p_value = stats.mannwhitneyu(impressionism, post_impressionism, alternative='greater')
-print("\n🔬 Результаты теста Манна-Уитни:")
+print("\n Результаты теста Манна-Уитни:")
 print(f"   U-statistic = {stat:.4f}")
 print(f"   p-value = {p_value:.6f}")
 
